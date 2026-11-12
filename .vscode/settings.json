@@ -1,0 +1,34 @@
+{
+    // Disable GitHub Copilot
+    "github.copilot.enable": {
+        "*": false
+    },
+
+    // Disable Copilot inline suggestions
+    // "editor.inlineSuggest.enabled": false,
+
+    // Disable automatic IntelliSense suggestions
+    // "editor.quickSuggestions": {
+    //     "other": false,
+    //     "comments": false,
+    //     "strings": false
+    // },
+
+    // Disable suggestions triggered by typing characters
+    "editor.suggestOnTriggerCharacters": false,
+
+    // Disable automatic parameter hints
+    // "editor.parameterHints.enabled": false,
+
+    // Disable automatic import suggestions
+    // "javascript.suggest.autoImports": false,
+    // "typescript.suggest.autoImports": false,
+
+    // Disable snippet suggestions
+    // "editor.snippetSuggestions": "none",
+
+    "chat.disableAIFeatures": true,
+
+    // "editor.tabCompletion": "off",
+    // "editor.acceptSuggestionOnCommitCharacter": false,
+}
